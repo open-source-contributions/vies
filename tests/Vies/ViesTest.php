@@ -1,7 +1,7 @@
 <?php
 declare (strict_types=1);
 
-namespace DragonBe\Test\Vies;
+namespace DragonBe\Tests\Vies;
 
 use DragonBe\Vies\CheckVatResponse;
 use DragonBe\Vies\HeartBeat;

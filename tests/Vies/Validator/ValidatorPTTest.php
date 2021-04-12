@@ -2,7 +2,7 @@
 
 declare (strict_types=1);
 
-namespace DragonBe\Test\Vies\Validator;
+namespace DragonBe\Tests\Vies\Validator;
 
 class ValidatorPTTest extends AbstractValidatorTest
 {

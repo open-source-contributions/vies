@@ -1,7 +1,7 @@
 <?php
 declare (strict_types=1);
 
-namespace DragonBe\Test\Vies;
+namespace DragonBe\Tests\Vies;
 
 use DateTime;
 use DragonBe\Vies\CheckVatResponse;
@@ -12,7 +12,7 @@ use stdClass;
 /**
  * Class CheckVatResponseTest
  *
- * @package DragonBe\Test\Vies
+ * @package DragonBe\Tests\Vies
  * @coversDefaultClass \DragonBe\Vies\CheckVatResponse
  */
 class CheckVatResponseTest extends TestCase

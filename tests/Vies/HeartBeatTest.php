@@ -1,7 +1,7 @@
 <?php
 declare (strict_types=1);
 
-namespace DragonBe\Test\Vies;
+namespace DragonBe\Tests\Vies;
 
 use DomainException;
 use DragonBe\Vies\HeartBeat;
@@ -11,7 +11,7 @@ use PHPUnit\Framework\TestCase;
 /**
  * Class HeartBeatTest
  *
- * @package DragonBe\Test\Vies
+ * @package DragonBe\Tests\Vies
  * @coversDefaultClass \DragonBe\Vies\HeartBeat
  */
 class HeartBeatTest extends TestCase
